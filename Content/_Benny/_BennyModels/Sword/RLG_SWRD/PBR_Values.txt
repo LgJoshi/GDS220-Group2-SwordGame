@@ -1,0 +1,7 @@
+Blade & Hilt: Mtl = 1, Rough = 0.5
+Blade Highlight: Mtl = 1, Rough = 0.3
+
+If you require more detailed instructions on how to the the materials working as intented
+contact me please.
+
+-Charlie
